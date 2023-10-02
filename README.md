@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-neo1&label=Profile%20views&color=0e75b6&style=flat" alt="mr-neo1" /> </p>
 
-<p align="left"> <a href="[https://twitter.com/cyber_techforce](https://twitter.com/Rohitkumar2202)" target="blank"><img src="https://img.shields.io/twitter/follow/cyber_techforce?logo=twitter&style=for-the-badge" alt="cyber_techforce" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Rohitkumar2202" target="blank"><img src="https://img.shields.io/twitter/follow/Rohitkumar2202?logo=twitter&style=for-the-badge" alt="cyber_techforce" /></a> </p>
 
 - 🔭 I’m currently working on **Try-hackme**
 
